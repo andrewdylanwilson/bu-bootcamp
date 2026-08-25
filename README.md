@@ -1,2 +1,10 @@
-# bu-bootcamp
-BU Online AI Programs Foundations Bootcamp
+# BU CS Foundations Bootcamp
+Boston Univeristy, CX500, Computer Science Bootcamp repository work.
+
+## Structure
+- module1/ : Development environment and first programs
+- module2/ : Programming fundamentals
+- module3/ : Data structures and object-oriented basics
+ 
+## Programs
+Each module contains source code to complete the module requirements. 
