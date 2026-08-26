@@ -6,7 +6,7 @@ Boston Univeristy, CX500, Computer Science Bootcamp repository work.
 - module2/ : Programming fundamentals
 - module3/ : Data structures and object-oriented basics
 - module4/ : Version Control with Git and Github
-- module5/ : JUnit
+- module5/ : Unit Testing with JUnit
  
 ## Programs
 Each module contains source code to complete the module requirements. 
