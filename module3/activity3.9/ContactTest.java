@@ -25,8 +25,7 @@ public class ContactTest {
 
   @Test
   void getName_returnsExactString_notTransformed() {
-    Contact c = new Contact("Grace Hopper", "555-0000");
-    assertEquals("Grace Hopper", c.getName());
+    assertEquals("Ada Lovelace", contact.getName());
   }
 
   @Test
