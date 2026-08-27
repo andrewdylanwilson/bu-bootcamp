@@ -63,3 +63,9 @@ tmbootpicker.efi
 
 # Java
 *.class
+
+# C compiled binaries and object files
+math_ops
+swap
+*.o
+*.exe
