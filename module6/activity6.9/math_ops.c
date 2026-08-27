@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Takes two integers and prints their sum and product
 void print_math(int a, int b) {
     printf("Sum: %d\n", a + b);
     printf("Product: %d\n", a * b);
